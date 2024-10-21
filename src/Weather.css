@@ -1,0 +1,38 @@
+.weather{background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 30px 50px #41326414;
+    font-family: Cerebri-Sans, Helvetica, Arial, sans-serif;
+    padding: 40px;
+margin: 20px 50px}
+
+.form{margin-bottom: 40px;}
+.values{ color:#F75282;}
+.temperature{
+    color: #212121;
+    font-size: 80px;
+    font-weight: 400;
+    font-weight: 700;
+    line-height: 1;
+    margin-left: 10px;}
+.temps{color:#F75282;}
+.min{opacity:0.6}
+.day li{color:#A5A1B2}
+h1{color:#272142}
+li{list-style: none;
+margin-left: -40px;}
+.forecast{margin-left: 0px;}
+.useForm{    background: #f9f7fe;
+    border: none;
+    border-radius: 6px;
+    color: #27214266;
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    line-height: 20px;
+    padding: 15px 20px;
+margin-right: 10px;}
+.btn{    border: none;
+    font-size: 16px;
+    font-weight: 700;
+    height: 50px;
+    padding: 15px 0;}
