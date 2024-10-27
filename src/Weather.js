@@ -12,7 +12,7 @@ function handleResponse(response) {
         setWeatherData({
             ready: true,
             temperature: response.data.temperature.current,
-            humidity: response.data.humidity,
+            humidity: response.data.temperature.humidity,
             date: new Date(response.data.dt * 1000),
             wind: response.data.wind.speed,
             city: response.data.city,
